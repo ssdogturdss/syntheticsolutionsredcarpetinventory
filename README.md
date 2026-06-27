@@ -1,0 +1,2 @@
+# syntheticsolutionsredcarpetinventory
+Inventory manager
